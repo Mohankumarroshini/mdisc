@@ -15,4 +15,7 @@
             "description": "get a Heroku API key from http://dashboard.heroku.com/account",
             "required": false}
     },
-}
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
