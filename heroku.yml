@@ -1,0 +1,5 @@
+build:
+  Procifile:
+    worker: procifile
+run:
+  worker: bash start.sh
